@@ -1,0 +1,2 @@
+DELETE FROM colegios WHERE idColegio=1;
+-- La consulta se ejecuta correctamente y se elimina la fila sin problemas, ya que en este borrado hemos utilizado el DELETE ON CASCADE y tambien se borra la fila de la otra tabla afectada    --
