@@ -1,0 +1,2 @@
+DELETE FROM colegios 
+WHERE idColegio=1
